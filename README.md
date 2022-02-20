@@ -108,7 +108,7 @@ ____________________________________________
 
 #### Desafio 3
 
-O algoritmo está no arquivo 
+O algoritmo está no arquivo AnagramCount.java
 
 O respectivo teste está no arquivo AnagramPairCountTest.java
 
