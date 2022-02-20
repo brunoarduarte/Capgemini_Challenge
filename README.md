@@ -86,5 +86,7 @@ A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão
 
 ____________________________________________
 
-### Os algorítmos foram implementados dentro da pasta src/main.
-### Os seus respectivos testes estão na pasta src/test
+### Os algorítmos foram implementados dentro da pasta br.com/src/main.
+### Os seus respectivos testes estão na pasta br.com/src/test.
+
+#### Desafio 1 - 
