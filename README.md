@@ -89,4 +89,7 @@ ____________________________________________
 ### Os algorítmos foram implementados dentro da pasta br.com/src/main.
 ### Os seus respectivos testes estão na pasta br.com/src/test.
 
-#### Desafio 1 - 
+#### Desafio 1
+
+O algoritmo está no arquivo LadderGenerate.java
+O teste está no arquivo LadderGenerateTest.java
