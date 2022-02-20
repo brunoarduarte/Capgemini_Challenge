@@ -92,4 +92,24 @@ ____________________________________________
 #### Desafio 1
 
 O algoritmo está no arquivo LadderGenerate.java
-O teste está no arquivo LadderGenerateTest.java
+
+O respectivo teste está no arquivo LadderGenerateTest.java
+
+
+____________________________________________
+
+#### Desafio 2
+
+O algoritmo está no arquivo CheckStrongPassword.java
+
+O respectivo teste está no arquivo CheckStrongPasswordTest.java
+
+____________________________________________
+
+#### Desafio 3
+
+O algoritmo está no arquivo 
+
+O respectivo teste está no arquivo AnagramPairCountTest.java
+
+____________________________________________
