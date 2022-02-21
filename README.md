@@ -91,36 +91,38 @@ ____________________________________________
 
 #### Desafio 1
 
-O algoritmo está no arquivo LadderGenerate.java
+O algoritmo está no arquivo <a href="br.com/src/main/LadderGenerate.java" margin="0 20" borderRadius="10px">LadderGenerate.java</a>.
 
-O respectivo teste está no arquivo LadderGenerateTest.java
+O respectivo teste está no arquivo <a href="br.com/src/main/LadderGenerateTest.java" margin="0 20" borderRadius="10px">LadderGenerateTest.java</a>.
 
 
 ____________________________________________
 
 #### Desafio 2
 
-O algoritmo está no arquivo CheckStrongPassword.java
+O algoritmo está no arquivo <a href="br.com/src/main/CheckStrongPassword.java" margin="0 20" borderRadius="10px">CheckStrongPassword.java</a>.
 
-O respectivo teste está no arquivo CheckStrongPasswordTest.java
+O respectivo teste está no arquivo <a href="br.com/src/main/CheckStrongPasswordTest.java" margin="0 20" borderRadius="10px">CheckStrongPasswordTest.java</a>.
 
 ____________________________________________
 
 #### Desafio 3
 
-O algoritmo está no arquivo AnagramCount.java
+O algoritmo está no arquivo <a href="br.com/src/main/AnagramCount.java" margin="0 20" borderRadius="10px">AnagramCount.java</a>.
 
-O respectivo teste está no arquivo AnagramPairCountTest.java
+O respectivo teste está no arquivo <a href="br.com/src/main/AnagramPairCountTest.java" margin="0 20" borderRadius="10px">AnagramPairCountTest.java</a>.
 
 ____________________________________________
 
 ### Projeto realizado utilizando a IDE IntelliJ.
-#### __IntelliJ IDEA 2021.3.2 (Community Edition)__
-#### __Build #IC-213.6777.52, built on January 28, 2022__ 
-#### __Runtime version: 11.0.13+7-b1751.25 amd64 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.__ 
+- _IntelliJ IDEA 2021.3.2 (Community Edition)_
 
-#### Java versão 1.8.0
+- _Build #IC-213.6777.52, built on January 28, 2022_
 
-#### Junit 5.8.1
+- _Runtime version: 11.0.13+7-b1751.25 amd64 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o._
+
+- _Java versão 1.8.0_
+
+- _Junit 5.8.1_
 
 ### Recomenda-se utilizar a IDE IntelliJ para executar os arquivos.
