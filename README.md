@@ -1,6 +1,6 @@
 # BEM VINDO AO MEU REPOSITÓRIO DO DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI
 
-Estou participando da terceira etapa do processo de seleção para a Academia Capgemini 2022. Nesta etapa, foram formuladoos os seguintes desafios:
+Estou participando da terceira etapa do processo de seleção para a Academia Capgemini 2022. Nesta etapa, foram formulados os seguintes desafios:
 
 ## Questão 01
 
@@ -86,7 +86,7 @@ A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão
 
 ____________________________________________
 
-### Os algorítmos foram implementados dentro da pasta br.com/src/main.
+### Os algoritmos foram implementados dentro da pasta br.com/src/main.
 ### Os seus respectivos testes estão na pasta br.com/src/test.
 
 #### Desafio 1
