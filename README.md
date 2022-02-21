@@ -115,9 +115,9 @@ O respectivo teste está no arquivo AnagramPairCountTest.java
 ____________________________________________
 
 ### Projeto realizado utilizando a IDE IntelliJ.
-#### __IntelliJ IDEA 2021.3.2 (Community Edition)
-#### __Build #IC-213.6777.52, built on January 28, 2022*
-#### __Runtime version: 11.0.13+7-b1751.25 amd64 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
+#### __IntelliJ IDEA 2021.3.2 (Community Edition)__
+#### __Build #IC-213.6777.52, built on January 28, 2022__ 
+#### __Runtime version: 11.0.13+7-b1751.25 amd64 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.__ 
 
 #### Java versão 1.8.0
 
