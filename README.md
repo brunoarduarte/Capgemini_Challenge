@@ -93,7 +93,7 @@ ____________________________________________
 
 O algoritmo está no arquivo <a href="br.com/src/main/LadderGenerate.java" margin="0 20" borderRadius="10px">LadderGenerate.java</a>.
 
-O respectivo teste está no arquivo <a href="br.com/src/main/LadderGenerateTest.java" margin="0 20" borderRadius="10px">LadderGenerateTest.java</a>.
+O respectivo teste está no arquivo <a href="br.com/src/test/LadderGenerateTest.java" margin="0 20" borderRadius="10px">LadderGenerateTest.java</a>.
 
 
 ____________________________________________
@@ -102,7 +102,7 @@ ____________________________________________
 
 O algoritmo está no arquivo <a href="br.com/src/main/CheckStrongPassword.java" margin="0 20" borderRadius="10px">CheckStrongPassword.java</a>.
 
-O respectivo teste está no arquivo <a href="br.com/src/main/CheckStrongPasswordTest.java" margin="0 20" borderRadius="10px">CheckStrongPasswordTest.java</a>.
+O respectivo teste está no arquivo <a href="br.com/src/test/CheckStrongPasswordTest.java" margin="0 20" borderRadius="10px">CheckStrongPasswordTest.java</a>.
 
 ____________________________________________
 
@@ -110,7 +110,7 @@ ____________________________________________
 
 O algoritmo está no arquivo <a href="br.com/src/main/AnagramCount.java" margin="0 20" borderRadius="10px">AnagramCount.java</a>.
 
-O respectivo teste está no arquivo <a href="br.com/src/main/AnagramPairCountTest.java" margin="0 20" borderRadius="10px">AnagramPairCountTest.java</a>.
+O respectivo teste está no arquivo <a href="br.com/src/test/AnagramPairCountTest.java" margin="0 20" borderRadius="10px">AnagramPairCountTest.java</a>.
 
 ____________________________________________
 
